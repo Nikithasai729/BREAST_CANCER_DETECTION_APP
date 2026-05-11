@@ -1,6 +1,6 @@
-flask
+streamlit
+tensorflow
 numpy
 pandas
+matplotlib
 scikit-learn
-tensorflow
-gunicorn
